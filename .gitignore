@@ -130,3 +130,6 @@ dmypy.json
 
 # mac folder file
 *.DS_Store
+
+# env variables / startup files
+start.sh
